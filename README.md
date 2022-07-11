@@ -1,7 +1,6 @@
 ### Hello 
 
 - I'm bunny.
-- Pursuing IT from NITRR 24.
 - I love automation and mainly I use python.
 - I can code with C++, Python, NodeJS for now.
 - Check out my projects.
