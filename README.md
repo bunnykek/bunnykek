@@ -2,7 +2,7 @@
 
 - I'm bunny.
 - I love automation and mainly I use python.
-- I can code with C++, Python, NodeJS for now.
+- I can code with C++, Python, JavaScript/Node.js for now.
 - Check out my projects.
 If you like my work then you can support me either on Ko-fi or by sponsoring on Github itself.
 
