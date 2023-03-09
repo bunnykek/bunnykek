@@ -3,7 +3,8 @@
 - I'm bunny.
 - I love automation and mainly I use python.
 - I can code with C++, Python, JavaScript/Node.js for now.
-- Check out my cool projects.
+- I am interested in ML, Android development and VFX.
+- Check out my projects.
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bunnykek&show_icons=true&theme=onedark)](https://github.com/bunnykek?tab=repositories)
