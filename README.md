@@ -1,6 +1,5 @@
 ### Hello 
 
-- I'm bunny.
 - I love automation and mainly I use python.
 - I can code with C++, Python, JavaScript/Node.js for now.
 - I am interested in ML, Android development and VFX.
