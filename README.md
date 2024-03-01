@@ -1,6 +1,6 @@
 ### Hello 
 
-- I am a B.Tech(IT) final year student from NITRR.
+- I am a B.Tech final year student.
 - I love automation and can code with C++, Python, Go and JavaScript for now.
 - I am interested in applied ML and Computer vision.
 - Check out my projects.
