@@ -1,8 +1,8 @@
 ### Hello 
 
 - I am a B.Tech final year student.
-- I love automation and can code with C++, Python, Go and JavaScript for now.
-- I am interested in applied ML and Computer vision.
+- I love automation and can code with C++, Python, Go, Kotlin and JavaScript for now.
+- I am interested in applied ML, Computer vision and android development.
 - Check out my projects.
 
 
